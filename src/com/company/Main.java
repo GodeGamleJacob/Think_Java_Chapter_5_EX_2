@@ -11,13 +11,10 @@ public class Main {
         int number = random.nextInt(50) + 1;
 
         System.out.println("Oh... hello there!");
-        System.out.println("\n");
         System.out.println("I want us to play a little game... ;)");
-        System.out.println("\n");
         System.out.println("Can you guess the magic number and get your price?");
         System.out.println("\n");
         System.out.println("The number is between 1 and 50.");
-        System.out.println("\n");
 
         Scanner input = new Scanner(System.in);
 
